@@ -1,0 +1,14 @@
+@media(max-width:700px){
+    .showcase{
+        height: 
+        600px;
+
+        &-content{
+            text-align: center;
+            display: flex;
+            flex-direction: column-reverse;
+
+         
+        }
+    }
+}
